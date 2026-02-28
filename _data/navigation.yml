@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Info Page"
+    url: /english/about-this-blog-page/
+  - title: "Blogs"
     url: /posts/
-  - title: "Categories"
+  - title: "Collections"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+  # - title: "Tags"
+  #   url: /tags/
   - title: "About"
     url: /about/
